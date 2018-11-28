@@ -309,7 +309,7 @@ you should place your code here."
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(org-babel-load-languages (quote ((emacs-lisp . t) (haskell . t) (C . t))))
+ '(org-babel-load-languages (quote ((emacs-lisp . t) (erlang . t) (C . t))))
  '(org-pretty-entities t)
  '(package-selected-packages
    (quote
